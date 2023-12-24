@@ -19,7 +19,7 @@ FALTA: PORTADA Y REDES SOCIALES
 <div align="center">
 <h1 align="center">Hi there, I'm <a href="">Thais</a> 👋</h1>
 </div>
-<!--<img src="https://i.imgur.com/weNbhGZ.png"> -->
+<img src="img/banner1.png">
 
 ## About Me
 Passionate software developer with expertise across diverse technologies ⚡, ranging from database management to crafting engaging user interfaces 😄.
