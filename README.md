@@ -21,7 +21,6 @@ FALTA: PORTADA Y REDES SOCIALES
 </div>
 <!--<img src="https://i.imgur.com/weNbhGZ.png"> -->
 
-
 ## About Me
 Passionate software developer with expertise across diverse technologies ⚡, ranging from database management to crafting engaging user interfaces 😄.
 
