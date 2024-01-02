@@ -50,7 +50,7 @@ Passionate software developer with expertise across diverse technologies ⚡, ra
 <td width="50%">
   <h3 align="center">Web Application for Clinical Laboratory (FrontEnd)</h3>
   <div align="center">
-    <a href="https://github.com/ArmijosThais/FrontEnd_Web_BioTest" target="_blank"><img src="img/biotest.png" width="400" alt="Basic Android Course"></a>
+    <a href="https://github.com/ArmijosThais/FrontEnd_Web_BioTest" target="_blank"><img src="img/biotest.png" width="400" alt="Clinical Laboratory web page"></a>
     <p>
       <a href="https://github.com/ArmijosThais/FrontEnd_Web_BioTest" target="_blank">
         <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -64,16 +64,46 @@ Passionate software developer with expertise across diverse technologies ⚡, ra
   <br>
   <h3 align="center">Facial Recognition in Python</h3>
   <div align="center">
-    <a href="https://github.com/ArmijosThais/ReconocimientoFacial" target="_blank"><img src="img/reconocimiento.jpg" width="400" alt="MVVM Architecture Course"></a>
+    <a href="https://github.com/ArmijosThais/ReconocimientoFacial" target="_blank"><img src="img/reconocimiento.jpg" width="400" alt="Face Recognition"></a>
     <br>
     <p>
       <a href="https://github.com/ArmijosThais/ReconocimientoFacial" target="_blank">
         <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
-    <p>Creación de un sistema de reconocimiento facial en tiempo real usando SVM en Python: este proyecto está diseñado para reconocer rostros previamente entrenados en varias posiciones y orientaciones usando la cámara de la computadora. </p>
+    <p>Creating a Real-Time Face Recognition System Using SVM in Python: This project is designed to recognize pre-trained faces in various positions and orientations using the computer camera. </p>
   </div>   
-</td>                                                     
+</td> 
+</table>   
+<table>
+<tr>
+<td width="50%">
+  <h3 align="center">Online Voting System for School</h3>
+  <div align="center">
+    <a href="https://github.com/AndresTGonzalez/elecciones-ueb-frontend" target="_blank"><img src="https://camo.githubusercontent.com/de71db91ecf968a94c2f4ab9a081a15a74f39670514694b4a09505256e322a47/68747470733a2f2f63646e2e676c697463682e676c6f62616c2f36376364343732622d373263362d346237322d386639312d3363333338376362663434362f31393735323562652d303537362d343934642d623439332d3932623662386239326630662e696d6167652e706e673f763d31373031383138323137353433" height="200" alt="Voting login"></a>
+    <p>
+      <a href="https://github.com/AndresTGonzalez/elecciones-ueb-frontend" target="_blank">
+        <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </p>
+    <p>The system has served to optimize the voting process at a school with approximately 3,500 students. It was implemented in a school in the city of Ambato, Tungurahua, Ecuador, and has been operational since June 2023.</p>
+  </div>                
+</td>
+
+<td width="50%">
+  <br>
+  <h3 align="center">Mobile Book Store</h3>
+  <div align="center">
+    <a href="https://github.com/ArmijosThais/MovilBookStore" target="_blank"><img src="https://github.com/ArmijosThais/MovilBookStore/assets/118792851/ff0e9034-5723-49fc-a532-f724cfa87cd1" height="200" alt="MOvil book store"></a>
+    <br>
+    <p>
+      <a href="https://github.com/ArmijosThais/MovilBookStore" target="_blank">
+        <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </p>
+    <p>Find a complete, mobile-friendly interface for an online store that includes CRUD, shopping cart functionalities, and more.</p>
+  </div>   
+</td> 
 </table>   
 </div>
 
